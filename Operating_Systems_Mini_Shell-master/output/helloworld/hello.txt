@@ -1,0 +1,4 @@
+this is line 1
+this line contains example word
+this line has is
+this line is last
